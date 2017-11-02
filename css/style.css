@@ -1,0 +1,46 @@
+#name_box {
+	float: left;
+	width:125px;
+	height:25px;
+	padding: 15px;
+	background-color: #4aaaa5;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+#main_links{
+	float: right;
+}
+
+#portrait{
+	float: left;
+}
+
+#bio{
+	float: right;
+}
+
+h2{
+	font-weight: bold;
+	color: #4aaaa5;
+	font-size: 20px;
+}
+
+hr{
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    background-color: #777777; /* Modern Browsers */
+}
+
+#connect{
+	float: right;
+	font-weight: bold;
+	font-size: 15px;
+	color: #4aaaa5;
+}
+
+#copy_right{
+	float: none;
+}
